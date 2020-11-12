@@ -48,7 +48,7 @@ class Preprocessing():
         return (network_input, network_output)
 
 
-    def get_notes(self):
+    def get_notes():
         '''
         Notes And Chord 
         From The midi
