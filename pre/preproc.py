@@ -10,7 +10,7 @@ class Preprocessing():
 
         self.input_seq, self.out_seq  = self.prepare_sequences(self.notes, self.len)
         
-    def prepare_sequences(self, notes, n_vocab):
+    def prepare_sequences(notes, n_vocab):
         '''
         Exctracted Notes To A Numpy 
         Array
